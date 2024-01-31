@@ -1,3 +1,0 @@
-For this automation is used Postman + Newman + the Git API
-
-master edited
