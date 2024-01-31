@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="GitHub API" tests="19" time="7.443">
+  <testsuite name="Get All Open Issues" id="5b4bb520-4513-481f-b0ae-b2fec4778183" timestamp="2024-01-30T18:19:04.519Z" tests="0" failures="0" errors="0" time="0.222"/>
+  <testsuite name="Close Issue" id="757270ef-a450-4954-8ecf-3cd4a9240fcc" timestamp="2024-01-30T18:19:04.519Z" tests="2" failures="0" errors="0" time="0.580">
+    <testcase name="Status code is 200" time="0.587" classname="GitHubApi"/>
+    <testcase name="Issue is closed" time="0.587" classname="GitHubApi"/>
+  </testsuite>
+</testsuites>
